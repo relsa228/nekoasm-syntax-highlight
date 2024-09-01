@@ -1,0 +1,32 @@
+#include "conditional.crossings.h"
+
+std::vector<std::string> conditional_crossings_list = {
+    "JE",
+    "JNE",
+    "JL",
+    "JNGE",
+    "JLE",
+    "JNG",
+    "JG",
+    "JNLE",
+    "JGE",
+    "JNL",
+    "JB",
+    "JNAE",
+    "JBE",
+    "JNA",
+    "JA",
+    "JNBE",
+    "JAE",
+    "JNB",
+    "JZ",
+    "JS",
+    "JC",
+    "JO",
+    "JP",
+    "JNZ",
+    "JNS",
+    "JNC",
+    "JNO",
+    "JNP"
+};
